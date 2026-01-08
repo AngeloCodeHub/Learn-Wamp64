@@ -1,0 +1,53 @@
+# Wamp root
+/alias
+/apps
+/bin
+/cgi-bin
+/files
+/lang
+/logs
+/save
+/scripts
+/tmp
+/www
+/*.txt
+/*.bmp
+/*.bat
+/*.msg
+/unins000.*
+/wampmanager.*
+/vendor
+
+# dotenv environment variable files
+_env
+.env
+.env.development.local
+.env.test.local
+.env.production.local
+.env.local
+
+# apps
+# /apps/adminer*
+# /apps/phpsysinfo*
+# /apps/phpmyadmin*/*
+# !/apps/phpmyadmin*/config.inc.php
+
+# bin/MariaDB
+# /bin/MariaDB
+
+# bin/Apache/
+# /bin/apache/*/*
+# /bin/apache/*/conf/original
+# !/bin/apache/*/conf
+# /bin/apache/modules_sup
+# /bin/apache/*/*.*
+
+# bin/MySQL
+# /bin/mysql/*/*
+# !/bin/mysql/*/my.ini
+
+# bin/PHP
+# /bin/php/DO_NOT_DELETE_*
+# /bin/php/*/*
+# !/bin/php/*/php.ini*
+# !/bin/php/*/phpForApache.ini

@@ -1,0 +1,16 @@
+{
+  "window.title": "${rootName}→${activeEditorShort}",
+  // "explorer.excludeGitIgnore": true,
+  // "files.exclude": {
+  //   "files": true,
+  //   "lang": true,
+  //   "cgi-bin": true,
+  //   "tmp": true,
+  //   "unins000.*": true,
+  //   "wamp*": true,
+  //   "save": true,
+  //   "*.bat": true,
+  //   "scripts": true,
+  //   "alias": true,
+  // },
+}
