@@ -1,0 +1,24 @@
+﻿#
+127.0.0.1 localhost
+::1 localhost
+
+# End of Docker Desktop
+
+127.0.0.1	wordpress
+::1	wordpress
+
+127.0.0.1	test
+::1	test
+
+127.0.0.1	wordpress
+::1	wordpress
+
+# Added by Docker Desktop
+192.168.1.243 host.docker.internal
+192.168.1.243 gateway.docker.internal
+# To allow the same kube context to work on the host and the container:
+127.0.0.1 kubernetes.docker.internal
+# End of section
+
+127.0.0.1	wordpress
+::1	wordpress
