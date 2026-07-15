@@ -1,6 +1,6 @@
 {
   "window.title": "${rootName}→${activeEditorShort}",
-  "explorer.excludeGitIgnore": true,
+  // "explorer.excludeGitIgnore": true,
   // "files.exclude": {
   //   "files": true,
   //   "lang": true,
